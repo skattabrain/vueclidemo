@@ -19,7 +19,7 @@
     "core-js": "^3.7.0",
     "focus-visible": "^5.2.0",
     "lodash": "^4.17.20",
-    "postcss": "^7.0.35",
+    "postcss": "^8.2.10",
     "tailwindcss": "^2.0.1-compat",
     "typeface-lato": "^0.0.75",
     "typeface-noto-sans": "^0.0.72",
